@@ -1,2 +1,6 @@
 # except node_modules
 node_modules
+
+# except yarn-err.log
+
+yarn-error.log
